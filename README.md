@@ -16,7 +16,7 @@ Ce projet est une application de gestion de billets d'avions, permettant d'ajout
 ### Cloner le dépôt
 ```sh
     git clone https://github.com/kkepiphane/GESTION_AVION.git
-    cd nom-du-repo
+    cd GESTION_AVION
 ```
 
 ### Exécution sous Linux
