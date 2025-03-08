@@ -43,7 +43,13 @@ Lancez l'application et suivez les instructions affichées dans le terminal.
 ```
 
 ## Auteur
-Projet réalisé par Groupe 5 composé de KOUTSAVA Kossi Epiphane, DWEGGAH M. A. Ariel Noor, GNOLAND Mercy Keren, BADZIKLOU Kossivi Hilary, ABDEL-KADER Soumaya Bintou, AGBOKA Amivi Hilarie.
+Projet réalisé par Groupe 5 composé de :
+    ABDEL-KADER Soumaya Bintou
+    AGBOKA Amivi Hilarie
+    BADZIKLOU Kossivi Hilary
+    DWEGGAH M. A. Ariel Noor
+    GNOLAND Mercy Keren
+    KOUTSAVA Kossi Epiphane
 
 ## Licence
 Ce projet est sous licence MIT.
